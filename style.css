@@ -192,13 +192,13 @@ button.p-btn {
 .about-app {
     width: 213px;
     margin-top: 35px;
-    margin-left: 288px;
+    margin-left: 192px;
 }
 .app-heading {
     margin-left: 67px;
-    font-size: 36px;
+    font-size: 47px;
     font-weight: 700;
-    line-height: 56px;
+    line-height: 46px;
     margin-bottom: 56px;
 }
 .app-description {
@@ -219,6 +219,7 @@ button.p-btn {
 }
 .app-image {
     margin-top: 139px;
+    margin-left: 170px;
 }
 .app-btn {
     font-size: 18px;
@@ -337,7 +338,6 @@ h1.article-title {
     width: 350px;
     height: 513px;
     margin: 25px;
-    padding: 10px;
     box-shadow: 10px 40px 50px 0px rgba(229, 233, 246, 0.40);
     border-radius: 20px;
     background-color: white;
@@ -354,9 +354,9 @@ h3.article-head {
     line-height: 32px;
 }
 p.article-description {
-    margin-left: 27px;
-    margin-top: -15px;
-    font-size: 16px;
+    margin-left: 25px;
+    margin-top: -12px;
+    font-size: 15px;
     font-weight: 300;
     line-height: 33px;
     color: #7D7987;
