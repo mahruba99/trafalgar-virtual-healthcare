@@ -108,6 +108,12 @@ h2.service-heading {
     padding: 33px;
     margin: 39px;
 }
+.service-items p {
+    margin-top: -18px;
+    font-size: 17px;
+    font-weight: 500;
+}
+
 img.service-icon {
     margin: 23px;
     padding: 20px;
@@ -141,10 +147,11 @@ img.p-i {
 }
 
 .provider-image {
-    margin-left: 253px;
+    margin-left: 161px;
 }
 .provider-about {
     width: 187px;
+    margin-left: 156px;
 }
 h1.provider-heading {
     font-size: 39px;
@@ -167,7 +174,7 @@ p.provider-description {
 .provider-btn {
     text-align: center;
     margin-top: 37px;
-    margin-left: 607px;
+    margin-left: 717px;
 }
 button.p-btn {
     font-size: 21px;
